@@ -1,0 +1,13 @@
+{
+  "name": "weighted-rating-calc",
+  "version": "1.0.0",
+  "description": "A general-purpose weighted rating calculator",
+  "main": "index.js",
+  "keywords": [
+    "weighted",
+    "rating",
+    "score",
+    "calculator"
+  ],
+  "license": "MIT"
+}
